@@ -1,7 +1,6 @@
 # Desafio 04 - E-commerce Alura Geek 
 
 ### Índice do Alura Challenges Oracle ONE
-<h1>E-commerce Alura Geek</h1> 
 
 Semana 7 e 8 que teve o objetivo de criar o primeiro e-commerce, utilizando HTML, CSS e Javascript. 
 
@@ -21,12 +20,14 @@ Semana 7 e 8 que teve o objetivo de criar o primeiro e-commerce, utilizando HTML
 
 ... 
 
-
 ## Descrição do projeto 
 
 <p align="justify">
   Projeto Front End AluraGeek E-commerce
 </p>
+
+![banner](https://user-images.githubusercontent.com/70113922/180909172-ea62eb82-666e-4854-9515-4a3cd009e046.png)
+
 
 ### A intenção deste desafio era criar um site e-commerce. 
 
@@ -49,6 +50,8 @@ Semana 7 e 8 que teve o objetivo de criar o primeiro e-commerce, utilizando HTML
 
 :heavy_check_mark: Funcionalidade 4  - Formulário - com permição de acesso aos usuários autenticados no sistema.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70113922/180909131-626e1778-4f30-40d6-9464-4fa334410c28.gif)
+
 ## Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação.
@@ -58,12 +61,10 @@ No seu navegador, clique na URL do projeto.
 Exemplo utilizado no Git Pages do próprio GitHub: https://anaisateodoro.github.io/challenges-oracle-one-04--/  
 ... 
 
-
+https://user-images.githubusercontent.com/70113922/180909072-0fff018b-2af5-46dc-b9ae-5e123b236f5d.mp4
 
 ## Pré-requisitos
-
 :warning: [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-
 ...
 ## Como rodar a aplicação :arrow_forward:
 
@@ -76,18 +77,17 @@ git clone https://github.com/anaisateodoro/challenges-oracle-one-04--.git
 
 ## Missão cumprida
 
-Valeu Alura + ORACLE ONE por oportunizar a realização desta mensagem. Até o próxima desafio!
+Valeu Alura + ORACLE ONE por oportunizar este aprendizado. Até o próxima desafio!
 
-![anaisa-alura-geek.png](anaisa-alura-geek.png)
+![anaisa-alura-geek](https://user-images.githubusercontent.com/70113922/180910281-9b3abdf8-d5b9-4294-b295-d69dd12220a6.png)
 
-## Linguagens, dependencias e libs utilizadas :books:
+## Linguagens, dependências e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 - [React PDF](https://react-pdf.org/)
 
 ...
-
-![badge-one-oracle-next-education-desafio-04](desafio-04.png)
+![desafio-04](https://user-images.githubusercontent.com/70113922/180909229-a3ae72ce-36ec-4627-ac3a-cab3b619f287.png)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
